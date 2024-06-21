@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c240b43-75a7-4de9-9190-e8f82817e756" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/GitHabJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/Gui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/RepositoryDescription.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +25,29 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="my-feature-branch" />
+                    <option name="lastUsedInstant" value="1718981488" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1718981487" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -47,7 +63,7 @@
     "Application.Main.executor": "Run",
     "Application.Starter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "my-feature-branch",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
