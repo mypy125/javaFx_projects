@@ -4,6 +4,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/sampleDiskAnalizer/pom.xml" />
+        <option value="$PROJECT_DIR$/gitHabHelper/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
