@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb08423-89b2-4f73-aeff-428c0440c003" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitHabHelper/.env.prop" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/GitHabJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/GitHabJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/Gui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/RepositoryDescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/RepositoryDescription.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/StarterGithubHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/GitHabJob$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/GitHabJob$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/GitHabJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/GitHabJob.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/Gui.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/Gui.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/RepositoryDescription.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/RepositoryDescription.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/Starter.class" beforeDir="false" />
-    </list>
+    <list default="true" id="8fb08423-89b2-4f73-aeff-428c0440c003" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
