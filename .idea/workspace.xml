@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fb08423-89b2-4f73-aeff-428c0440c003" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleDiskAnalizer/target/classes/com/mygitgor/Analyzer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sampleDiskAnalizer/target/classes/com/mygitgor/Analyzer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleDiskAnalizer/target/classes/com/mygitgor/Starter.class" beforeDir="false" afterPath="$PROJECT_DIR$/sampleDiskAnalizer/target/classes/com/mygitgor/Starter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitHabHelper/.env.prop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/GitHabJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/GitHabJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/Gui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/RepositoryDescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/RepositoryDescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/src/main/java/com/mygitgor/StarterGithubHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/GitHabJob$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/GitHabJob$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/GitHabJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/GitHabJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/Gui.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/Gui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/RepositoryDescription.class" beforeDir="false" afterPath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/RepositoryDescription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitHabHelper/target/classes/com/mygitgor/Starter.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +32,10 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2iE6lazRX1074xQUsFUw4qYV4Fs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,49 +43,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Starter (1).executor": "Run",
     "Application.Starter.executor": "Run",
+    "Application.StarterGithubHelper.executor": "Run",
     "Maven.sampleDiskAnalizer [org.openjfx:javafx-maven-plugin:0.0.8:run].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Starter (1)">
-    <configuration name="Starter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mygitgor.Starter" />
-      <module name="gitHabHelper" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mygitgor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-21.0.2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.mygitgor.Starter" />
-      <module name="sampleDiskAnalizer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mygitgor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Starter (1)" />
-      <item itemvalue="Application.Starter" />
-    </list>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gitHabHelper/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Starter (1)" />
         <item itemvalue="Application.Starter" />
       </list>
     </recent_temporary>

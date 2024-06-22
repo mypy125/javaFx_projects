@@ -1,7 +1,5 @@
 package com.mygitgor;
 
-
-import io.github.cdimascio.dotenv.Dotenv;
 import org.kohsuke.github.GHMyself;
 import org.kohsuke.github.GHPullRequest;
 import org.kohsuke.github.GitHub;
@@ -16,13 +14,10 @@ public class GitHabJob {
     private final Gui gui = new Gui();
     private final Set<Long> allPullReqId = new HashSet<>();
 
-    Dotenv dotenv = Dotenv.load();
-    String token = dotenv.get("GITHUB_TOKEN");
-
     public GitHabJob(){
         try {
             gitHub = new GitHubBuilder()
-                    .withAppInstallationToken(System.getenv(token))
+                    .withAppInstallationToken(System.getenv("GITHUB_TOKEN"))
                     .build();
             init();
         } catch (IOException e) {
@@ -70,6 +65,8 @@ public class GitHabJob {
                                 }
                             })
                             .collect(Collectors.toList());
+
+                    gui.setMenu(login, repos);
 
                     if (notifyForNewPrs) {
                         newPrs.forEach(pr -> {

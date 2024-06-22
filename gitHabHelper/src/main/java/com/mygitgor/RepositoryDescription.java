@@ -24,7 +24,7 @@ public class RepositoryDescription {
         return repository;
     }
 
-    public List<GHPullRequest> getReq() {
+    public List<GHPullRequest> getPullReq() {
         return pullReq;
     }
 }
